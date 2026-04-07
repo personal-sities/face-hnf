@@ -1,0 +1,5 @@
+{
+  "name": "AloqaPro - Monitoring System",
+  "description": "Advanced attendance and face recognition system with AFK tracking, KPI management, and PWA support.",
+  "requestFramePermissions": ["camera", "notifications"]
+}
